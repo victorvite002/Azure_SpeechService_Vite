@@ -8,8 +8,8 @@
   
     // Replace with your own subscription key, service region (e.g., "westus"),
     // and recognition language.
-    subscriptionKey:   "",
-    serviceRegion:     "eastus", // e.g., "westus"
+    subscriptionKey:   "2c2c0928df3b44e988806107d0f18518",
+    serviceRegion:     "centralus", // e.g., "westus"
     language:          "es-MX",
   
     // Replace with the full path to a wav file you want to recognize or overwrite.
@@ -17,7 +17,7 @@
   
     // Replace with your own Language Understanding subscription key (endpoint
     // key), region, and app ID in case you want to run the intent sample.
-    luSubscriptionKey: "YourLanguageUnderstandingSubscriptionKe",
+    luSubscriptionKey: "YourLanguageUnderstandingSubscriptionKey",
     luServiceRegion:   "YourLanguageUnderstandingServiceRegion",
     luAppId:           "YourLanguageUnderstandingAppId",
   };
