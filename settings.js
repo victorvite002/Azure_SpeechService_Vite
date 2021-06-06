@@ -17,7 +17,7 @@
   
     // Replace with your own Language Understanding subscription key (endpoint
     // key), region, and app ID in case you want to run the intent sample.
-    luSubscriptionKey: "YourLanguageUnderstandingSubscriptionKey",
+    luSubscriptionKey: "YourLanguageUnderstandingSubscriptionKe",
     luServiceRegion:   "YourLanguageUnderstandingServiceRegion",
     luAppId:           "YourLanguageUnderstandingAppId",
   };
